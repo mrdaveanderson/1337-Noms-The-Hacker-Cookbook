@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This recipe is designed to maximize flavor and minimize prep time. There are probably faster or tastier, but imho this is the best bank for your invested minute. During the cook phase there is also enough time to make dressing, gravy, and boil/bake potatoes. This is loosely based on the cooking methods of Alton Brown's dry brine poultry from "Countdown to T-Day" special as well as some of his tips from his "Right on Q" special. This recipe works well on all sizes of turkey (tested from 8lbs to 21lbs, but 14-16lbs is the sweet spot). I focused on minimizing the time involved because I like to show up at my parents house at 11:30a, start prep, and be done cooking by 3p. The only prep my parents can be trusted to do ahead of time is thaw the turkey in the fridge. Apologies ahead of time, my instructions are pretty specific/verbose, but usually thanksgiving is not a time when people enjoy ambiguity in cooking directions.
+This recipe is designed to maximize flavor and minimize prep time. There are probably faster or tastier, but imho this is the best bank for your invested minute. During the cook phase there is also enough time to make dressing, gravy, and boil/bake potatoes. This is loosely based on the cooking methods of Alton Brown's dry brine poultry from "Countdown to T-Day" special as well as some of his tips from his "Right on Q" special. This recipe works well on all sizes of turkey (tested from 8lbs to 21lbs, but 14-16lbs is the sweet spot, pictures are of an 9lb turkey). I focused on minimizing the time involved because I like to show up at my parents house at 11:30a, start prep, and be done cooking by 3p. The only prep my parents can be trusted to do ahead of time is thaw the turkey in the fridge. Apologies ahead of time, my instructions are pretty specific/verbose, but usually thanksgiving is not a time when people enjoy ambiguity in cooking directions.
 
 ## Prep Instructions
 
@@ -29,7 +29,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 
 1. Fetch out your turkey. Move to sink. Cut open the bag, drain out any excess liquid. Remove neck from one end and set aside for gravy/soup/etc., remove giblets from the other end. I discard the giblets, but feel free to do what you like with them.
 1. Place turkey on the most giant plastic cutting board available. (If a non porous counter is available, this also works...just make sure not to scratch their countertop and to sanitize the hell out of it when you're done)
-1. Remove any other misc hardware (such as random things installed to hold the legs in place) *except* the thermometer. Leave that in, or it will just make a hole for juices to escape.
+1. Remove any other misc hardware (such as random things installed to hold the legs in place) *except* the thermometer. Leave that in, or it will just make a hole for juices to escape. 
 ![prep1](turkey_prep0.jpg)
 1. Flip the turkey over so that you're looking at where the backbone comes out near the drumsticks. Start cutting up one side of the backbone. If you get stuck, start cutting up the other side of the backbone, grab the section of backbone you have cut on both sides, then you can leaver that out, then you can start cutting up the sides again. On a stubborn turkey you might have to go as many as 4 different sections to get the whole thing out. Also wiggling the shears as you cut (side to side)...and just being patent, will eventually get that bugger out. Set all the backbone chunks aside with the turkey neck.
 ![prep1](turkey_prep1.jpg)
