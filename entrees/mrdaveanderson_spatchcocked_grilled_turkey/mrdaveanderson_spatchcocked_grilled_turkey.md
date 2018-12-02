@@ -10,8 +10,9 @@ TODO:
 ## Ingredients
 
 - An Frozen Turkey, as natural as possible, but still one that was soaked in some kind of salt solution to save time (butterball natural for example)
-- Spice Rub
 - Optional: foil pie tin full of wood chips of your choice
+- Spice Rub
+ - asdf
 
 ## Hardware
 
