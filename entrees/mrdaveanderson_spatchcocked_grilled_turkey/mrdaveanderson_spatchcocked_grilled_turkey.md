@@ -66,6 +66,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. Roll up the edges of the foil so that they're about 1" from the bird on all sides.
 ![prep1](turkey_prep6.jpg)
 1. Set your grill thermometer for 160F to 162F. 
+1. Sanitize the hell out of anything the turkey touched in the kitchen (including counter top, cutting board, sinks, etc), open your shears up and stick them in the dishwasher, etc. Food poisoning is not a great finish to stuffing yourself with turkey!
 1. Go cook side dishes!
 1. When 160F rolls around, go out with an instant read thermometer, and temp around. Depending on the size/evenness of thawing of the bird, it will either all finish at once, or your thighs/legs may lag behind 10F or so. If the dark meat lags behind, it is usually pretty easy to pull just the white meat section (use tongs to gently dislodge the thighs from the ribcage and leave both thighs sitting there while you evacuate the torso section to a platter)
 ![prep1](turkey_finished0.jpg)
