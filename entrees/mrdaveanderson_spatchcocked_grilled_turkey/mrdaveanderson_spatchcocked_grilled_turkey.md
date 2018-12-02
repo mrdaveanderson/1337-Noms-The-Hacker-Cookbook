@@ -12,7 +12,14 @@ TODO:
 - An Frozen Turkey, as natural as possible, but still one that was soaked in some kind of salt solution to save time (butterball natural for example)
 - Optional: foil pie tin full of wood chips of your choice
 - Spice Rub
-  - asdf
+  - 6 tablespoons of smoked sea salt (regular will do if you dont have this, but it wont be as good)
+  - 1 tablespoon onion powder
+  - 1 tablespoon fine garlic powder (regular size if that's all you have)
+  - 1 tablespoon montreal steak seasoning
+  - 1 tablespoon smoked paprika
+  - 1 tablespoon oregano
+  - 0.5 tablespoon whole black peppercorns
+  - [optional] 0.25 tablespoon ground cayenne pepper (if you like it to have a kick)
 
 ## Hardware
 
