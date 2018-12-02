@@ -70,7 +70,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. When 160F rolls around, go out with an instant read thermometer, and temp around. Depending on the size/evenness of thawing of the bird, it will either all finish at once, or your thighs/legs may lag behind 10F or so. If the dark meat lags behind, it is usually pretty easy to pull just the white meat section (use tongs to gently dislodge the thighs from the ribcage and leave both thighs sitting there while you evacuate the torso section to a platter)
 ![prep1](turkey_finished0.jpg)
 ![prep1](turkey_finished1.jpg)
-1. Get the bird in the house! Rest at least until the temperature starts to fall (usually it will continue upward for at least a few degrees before staring to fall, hence pulling it at 160ish rather than the expected 165 fully cooked temp.
+1. Get the bird in the house! Rest at least until the temperature starts to fall (usually it will continue upward for at least a few degrees before staring to fall, hence pulling it at 160-ish rather than the expected 165 fully cooked temp.
 1. Carve! I usually carve each breast off whole, and then slice straight down so each slice has a little bit of skin.
 1. Eat!
 
@@ -82,7 +82,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. Sear all the offcuts from the carcass in a pan until some browning on all sides. 
 1. Add a tablespoon or two of the spice mix from above
 1. Add a quart of water or so 
-1. (Hint: all of the vedge that gets added can be the worst of what you have a available (so long as it's edible): i.e. bruised carrots, the runty onion, those middle few stalks of celery from the bundle that are super leafy, etc). They're just here for flavor, and will boil for an hour or two and then get discarded.
+1. (Hint: all of the veggies that get added can be the worst of what you have a available (so long as it's edible): i.e. bruised carrots, the runty onion, those middle few stalks of celery from the bundle that are super leafy, etc). They're just here for flavor, and will boil for an hour or two and then get discarded.
 1. Add one onion chopped into ~8-16 pieces (just enough so water will circulate well through it)
 1. Add a couple of carrots, roughly cut into 4-8 pieces
 1. Add two ribs of celery, roughly chopped into 4-8 pieces
@@ -97,10 +97,10 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 
 ### Gluten free ~~Stuffing~~ Dressing
 1. Finely dice one onion, some carrots, and some celery (I usually use one part onion, two parts carrot, two parts celery)
-1. Throw them all in a pan over medium low heat, with a heavy pinch of salt (up to 1 teaspoon for the above 4 parts to one large onion)
-1. When they're staring to get dry (i.e. they've sweated out all their moisture), add a couple cups of packaged chicken broth
+1. In a 6qt+ pot over medium low heat, you can either dump it all in, or caramelize the onions first, then dump the rest, up to you. Add a heavy pinch of salt whenever you add the carrots and celery (up to 1 teaspoon for the above 4 parts to one large onion).
+1. When they're staring to get dry (i.e. they've sweated out all their moisture), add enough chicken/turkey broth (packaged low sodium from whatever works just fine, I like Costco's Kirkland signature brand for example) to well cover all the veggies (an extra half inch or so is fine, just so as it evaporates, it stays covered).
 1. Simmer until the carrots and celery are tender
-1. Add two packages of gluten free stuffing mix, ***without*** the packets (I've used both Olivia's and Trader Joe's...or just gluten free loaves cut up and dried in the oven at 170 for 3hrs). If you really want to, you can use the packets to season to taste, but do that last. In our household, we can never use such packets due to various food allergies of the assembled masses.
+1. Add two packages of gluten free stuffing croutons, ***without*** the seasoning packets (I've used both Olivia's and Trader Joe's...or just gluten free loaves cut up and dried in the oven at 170 for 3hrs). If you really want to, you can use the packets to season to taste, but do that last. In our household, we can never use such packets due to various food allergies of the assembled masses.
 1. Add more chicken/turkey broth/stock until you're happy with the consistency. I like a wetter stuffing/dressing, but it's up to you. For two large boxes, such as Trader Joes, I'm usually 1.5qt overall on stock/broth.
 1. Stir it around every couple minutes and re-check water content, since the croutons will keep absorbing liquid for several minutes.
 1. Season to taste. Minimally this means checking for salt content, and adding salt to taste. You can of course also add pepper and other seasonings, to taste. If you prefer rather than salt you can also use the turkey rub mix (this is what I do), but as it contains salt...do this when you're still trying to add salt to the stuffing/dressing rather than after, or it'll end up very salty.
