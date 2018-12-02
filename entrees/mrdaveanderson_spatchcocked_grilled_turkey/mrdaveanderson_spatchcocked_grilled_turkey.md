@@ -95,7 +95,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. If it's not as thick as you like use the other half of the reserved cup of liquid to repeat adding starch to the gravy. Keep in mind, most starches will thicken as they cool, so try to err on the side of too thin, rather than too thick. Gently heat and gel again if you had to add more.
 1. It's gravy now, cover and leave on the warmish stove, transfer to gravy boat just before service.
 
-### Gluten free Dressing (nee Stuffing)
+### Gluten free ~~Stuffing~~ Dressing
 1. Finely dice one onion, some carrots, and some celery (I usually use one part onion, two parts carrot, two parts celery)
 1. Throw them all in a pan over medium low heat, with a heavy pinch of salt (up to 1 teaspoon for the above 4 parts to one large onion)
 1. When they're staring to get dry (i.e. they've sweated out all their moisture), add a couple cups of packaged chicken broth
