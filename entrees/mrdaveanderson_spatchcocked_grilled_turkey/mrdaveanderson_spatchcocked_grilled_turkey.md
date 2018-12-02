@@ -81,9 +81,10 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. Add any misc leaves from the celery bundle (wash them well, they tend to be grimy) to the stock pot
 1. Boil for as long as you have time for (i.e. as long as the turkey is cooking). When the turkey starts to get near the end, or dinner time approaches, strain out the liquid into a large measuring cup or gravy separator. Leave to sit for a few minutes and remove as much of the fat/scum as possible.
 1. Set aside 1 cup of the liquid in something that will cool quickly, return the rest to the saucepan. If you have more liquid than you want gravy, consider using some of it in place of the chicken/turkey stock in the dressing recipe.
-1. once the reserved 1 cup of liquid has cooled down a bit (you can speed this up by transferring it between a few different cups, and rinsing the cups out with cold water in between transfers if you're in a hurry, or add an ice cube), add 1-2 tablespoons of potato starch (or other gluten free thickening agent) to the cold liquid. Stir (or shake) until it is fully integrated. If your liquid is too hot, the starch will not integrate well, and you'll have lumps.
+1. Once the reserved 1 cup of liquid has cooled down a bit (you can speed this up by transferring it between a few different cups, and rinsing the cups out with cold water in between transfers if you're in a hurry, or add an ice cube), ***take half of the liquid*** add 1-2 tablespoons of potato starch (or other gluten free thickening agent) to the cold liquid. Stir (or shake) until it is fully integrated. If your liquid is too hot, the starch will not integrate well, and you'll have lumps.
 1. Stir while adding the starched liquid from the above step back into the saucepan.  If you realize you have lumps in the small amount of liquid before you addd it, you can strain them out as you pour it in.
 1. Heat slowly until the gelling point of your starch (you can either look it up, or just stir until it thickens and then turn off the heat)
+1. If it's not as thick as you like use the other half of the reserved cup of liquid to repeat adding starch to the gravy. Keep in mind, most starches will thicken as they cool, so try to err on the side of too thin, rather than too thick. Gently heat and gel again if you had to add more.
 1. It's gravy now, cover and leave on the warmish stove, transfer to gravy boat just before service.
 
 ### Gluten free Dressing (nee Stuffing)
@@ -95,6 +96,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. Add more chicken/turkey broth/stock until you're happy with the consistency. I like a wetter stuffing/dressing, but it's up to you. For two large boxes, such as Trader Joes, I'm usually 1.5qt overall on stock/broth.
 1. Stir it around every couple minutes and re-check water content, since the croutons will keep absorbing liquid for several minutes.
 1. Season to taste. Minimally this means checking for salt content, and adding salt to taste. You can of course also add pepper and other seasonings, to taste. If you prefer rather than salt you can also use the turkey rub mix (this is what I do), but as it contains salt...do this when you're still trying to add salt to the stuffing/dressing rather than after, or it'll end up very salty.
+1. It's done now, do eating!
 
 
 
