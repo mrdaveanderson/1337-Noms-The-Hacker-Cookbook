@@ -61,7 +61,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 
 
 
-##Optional Related Side instructions:
+## Optional Related Side instructions:
 
 ### Gluten free gravy
 
