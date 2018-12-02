@@ -56,6 +56,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. When 160F rolls around, go out with an instant read thermometer, and temp around. Depending on the size/evenness of thawing of the bird, it will either all finish at once, or your thighs/legs may lag behind 10F or so. If the dark meat lags behind, it is usually pretty easy to pull just the white meat section (use tongs to gently dislodge the thighs from the ribcage and leave both thighs sitting there while you evacuate the torso section to a platter)
 ![prep1](turkey_finished0.jpg)
 ![prep1](turkey_finished1.jpg)
+1. Get the bird in the house! Rest at least until the temperature starts to fall (usually it will continue upward for at least a few degrees before staring to fall, hence pulling it at 160ish rather than the expected 165 fully cooked temp.
 1. Carve! I usually carve each breast off whole, and then slice straight down so each slice has a little bit of skin.
 1. Eat!
 
