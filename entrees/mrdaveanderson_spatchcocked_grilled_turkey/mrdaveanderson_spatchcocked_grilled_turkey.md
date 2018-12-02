@@ -64,7 +64,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 ![prep1](turkey_optional_smokepkt1.jpg)
 1. Plop the whole turkey with foil tray and all onto the grill, slightly biased away from the vertical cross bar horizontally if your grill has one, and centered on the vertical. Run your probe wire(s) out the side of the grill that has the least amount of burners on the way out.
 1. Roll up the edges of the foil so that they're about 1" from the bird on all sides.
-![prep1](turkey_prep5.jpg)
+![prep1](turkey_prep6.jpg)
 1. Set your grill thermometer for 160F to 162F. 
 1. Go cook side dishes!
 1. When 160F rolls around, go out with an instant read thermometer, and temp around. Depending on the size/evenness of thawing of the bird, it will either all finish at once, or your thighs/legs may lag behind 10F or so. If the dark meat lags behind, it is usually pretty easy to pull just the white meat section (use tongs to gently dislodge the thighs from the ribcage and leave both thighs sitting there while you evacuate the torso section to a platter)
