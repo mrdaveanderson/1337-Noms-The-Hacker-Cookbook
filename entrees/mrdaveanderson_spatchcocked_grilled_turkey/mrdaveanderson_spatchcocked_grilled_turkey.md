@@ -1,5 +1,10 @@
 # Dave's Minimized-prep Spatchcocked Grilled Turkey
 
+```TODO: 
+- Add spice rub ingredients/measurements. 
+- Add in metric for any imperial units. 
+- Clarify/edit.
+```
 
 ## Ingredients
 
