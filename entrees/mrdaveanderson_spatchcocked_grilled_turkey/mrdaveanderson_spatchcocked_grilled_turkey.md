@@ -32,20 +32,30 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. Remove any other misc hardware (such as random things installed to hold the legs in place) *except* the thermometer. Leave that in, or it will just make a hole for juices to escape.
 ![prep1](turkey_prep0.jpg)
 1. Flip the turkey over so that you're looking at where the backbone comes out near the drumsticks. Start cutting up one side of the backbone. If you get stuck, start cutting up the other side of the backbone, grab the section of backbone you have cut on both sides, then you can leaver that out, then you can start cutting up the sides again. On a stubborn turkey you might have to go as many as 4 different sections to get the whole thing out. Also wiggling the shears as you cut (side to side)...and just being patent, will eventually get that bugger out. Set all the backbone chunks aside with the turkey neck.
+![prep1](turkey_prep1.jpg)
 1. Trim up any random flaps or things that are just hanging off now that the backbone is out. Usually I have to at least trim up the area near the legs and the neck end, of random blobs of fat and skin. Don't go crazy though, we still want the skin that's attached to the turkey and not loose to stay so we can crisp it up, and to give protection to the meat as it cooks. You'll probably also need to mop up around the turkey at this point, as well as in the cavity.
+![prep1](turkey_prep2.jpg)
 1. Flip the turkey over so the lack of backbone is now down towards the cutting board. Spread the hole where the backbone used to be open as much as possible as you set the turkey down, then firmly press down on the turkey sternum. You should hear two sets of cracks as the ribs crack open, and the turkey will flatten out.
+![prep1](turkey_prep3.jpg)
 1. Pull down a bit on the legs as you hold down with the other hand to stretch the bird out a bit.
 1. Grab each wing and fold it so that is behind the mass of the turkey (think of it like he's putting his arms behind his head and relaxing)
 1. Once he's all flat and tidy, flip him back over again, and spice the underside and what was formally the inside of the turkey.
+![prep1](turkey_prep4.jpg)
 1. While you leave that for a minute or two to adhere, take two sheets of heavy duty foil and crimp them together at the edges so that they make a larger piece of foil. If you have a heavy turkey (aka probably anything over 10lbs) you may want to do this twice, so you have a double thick, double width piece of foil. The width should now be about 24", and the length should be something that comfortably fits in your grill, usually about 36" (you can roll it up into a little side wall if there's excess later).
 1. Once your foil is ready and it's been a couple minutes, flip the turkey on to the foil, so the breast side is now up. Season liberally. Insert your probe thermometer along the sternum from the head end of the turkey 4-6" in, until the tip is roughly about 60% the way into the breast along that line.
+![prep1](turkey_prep5.jpg)
 1. Sounds like a lot, but that should take 20-30m tops. 
-1. If you're using the optional smoke packet for your grill, just before moving the turkey to the grill, grab some tongs, remove the top grate, and place the packet near one of the burners
-1. Plop the whole foil packet onto the grill, slightly biased away from the vertical cross bar horizontally if your grill has one, and centered on the vertical. Run your probe wire(s) out the side of the grill that has the least amount of burners on the way out.
+1. [Optional] If you're using the optional smoke packet for your grill, just before moving the turkey to the grill, grab some tongs, remove the top grate, and place the packet near one of the burners
+![prep1](turkey_optional_smokepkt0.jpg)
+![prep1](turkey_optional_smokepkt1.jpg)
+1. Plop the whole turkey with foil tray and all onto the grill, slightly biased away from the vertical cross bar horizontally if your grill has one, and centered on the vertical. Run your probe wire(s) out the side of the grill that has the least amount of burners on the way out.
 1. Roll up the edges of the foil so that they're about 1" from the bird on all sides.
+![prep1](turkey_prep5.jpg)
 1. Set your grill thermometer for 160F to 162F. 
 1. Go cook side dishes!
 1. When 160F rolls around, go out with an instant read thermometer, and temp around. Depending on the size/evenness of thawing of the bird, it will either all finish at once, or your thighs/legs may lag behind 10F or so. If the dark meat lags behind, it is usually pretty easy to pull just the white meat section (use tongs to gently dislodge the thighs from the ribcage and leave both thighs sitting there while you evacuate the torso section to a platter)
+![prep1](turkey_finished0.jpg)
+![prep1](turkey_finished1.jpg)
 1. Carve! I usually carve each breast off whole, and then slice straight down so each slice has a little bit of skin.
 1. Eat!
 
