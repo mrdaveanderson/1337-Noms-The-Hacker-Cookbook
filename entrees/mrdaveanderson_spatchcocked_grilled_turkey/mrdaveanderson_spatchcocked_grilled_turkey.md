@@ -59,7 +59,7 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. Once your foil is ready and it's been a couple minutes, flip the turkey on to the foil, so the breast side is now up. Season liberally. Insert your probe thermometer along the sternum from the head end of the turkey 4-6" in, until the tip is roughly about 60% the way into the breast along that line.
 ![prep1](turkey_prep5.jpg)
 1. Sounds like a lot, but that should take 20-30m tops. 
-1. [Optional] If you're using the optional smoke packet for your grill, just before moving the turkey to the grill, grab some tongs, remove the top grate, and place the packet near one of the burners
+1. [Optional] If you're using the optional smoke packet for your grill, just before moving the turkey to the grill, grab some tongs, remove the top grate, and place the packet near one of the burners. Construct the packet by filling a pie tin about half full of chips, fold it over, crimp the edge, liberally poke one side (the top side when you put it in the grill) with holes.
 ![prep1](turkey_optional_smokepkt0.jpg)
 ![prep1](turkey_optional_smokepkt1.jpg)
 1. Plop the whole turkey with foil tray and all onto the grill, slightly biased away from the vertical cross bar horizontally if your grill has one, and centered on the vertical. Run your probe wire(s) out the side of the grill that has the least amount of burners on the way out.
