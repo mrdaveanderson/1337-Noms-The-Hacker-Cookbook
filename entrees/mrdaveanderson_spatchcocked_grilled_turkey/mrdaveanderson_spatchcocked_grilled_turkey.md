@@ -2,7 +2,6 @@
 
 ```
 TODO: 
-- Add spice rub ingredients/measurements. 
 - Add in metric for any imperial units. 
 - Clarify/edit.
 ```
