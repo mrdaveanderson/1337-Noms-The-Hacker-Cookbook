@@ -23,7 +23,8 @@ TODO:
 ## Hardware
 
 - Some variety of Grill (gas grill used as an example, wood pellet, charcoal etc. should all work though)
-- Probe thermometer
+- Probe thermometer with long wire for leaving in while cooking
+- Instant read thermometer for spot checking doneness at the end (turkeys cook irregularly sometimes...and food poisoning is no way to spend the holidays)
 - ***Heavy*** duty kitchen shears, especially if you prefer larger turkeys. Preferably ones that come appart at the hinge so they can be cleaned out properly (dishwasher)
 - Aluminum foil
 
