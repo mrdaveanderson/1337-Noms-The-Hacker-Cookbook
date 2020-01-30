@@ -1,4 +1,4 @@
-# Dave's Minimized-prep Spatchcocked Grilled Turkey
+# Dave's Potroast
 
 ```
 TODO: 
