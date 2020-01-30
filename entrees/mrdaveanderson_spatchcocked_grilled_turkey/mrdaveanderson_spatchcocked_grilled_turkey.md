@@ -2,7 +2,6 @@
 
 ```
 TODO: 
-- Add spice rub ingredients/measurements. 
 - Add in metric for any imperial units. 
 - Clarify/edit.
 ```
@@ -10,7 +9,7 @@ TODO:
 ## Ingredients
 
 - An Frozen Turkey, as natural as possible, but still one that was soaked in some kind of salt solution to save time (butterball natural for example)
-- Optional: foil pie tin full of wood chips of your choice
+- [Optional] foil pie tin full of wood chips of your choice
 - Spice Rub
   - 6 tablespoons of smoked sea salt (regular will do if you dont have this, but it wont be as good)
   - 1 tablespoon onion powder
@@ -24,7 +23,8 @@ TODO:
 ## Hardware
 
 - Some variety of Grill (gas grill used as an example, wood pellet, charcoal etc. should all work though)
-- Probe thermometer
+- Probe thermometer with long wire for leaving in while cooking
+- Instant read thermometer for spot checking doneness at the end (turkeys cook irregularly sometimes...and food poisoning is no way to spend the holidays)
 - ***Heavy*** duty kitchen shears, especially if you prefer larger turkeys. Preferably ones that come appart at the hinge so they can be cleaned out properly (dishwasher)
 - Aluminum foil
 
@@ -58,7 +58,8 @@ This recipe is designed to maximize flavor and minimize prep time. There are pro
 1. While you leave that for a minute or two to adhere, take two sheets of heavy duty foil and crimp them together at the edges so that they make a larger piece of foil. If you have a heavy turkey (aka probably anything over 10lbs) you may want to do this twice, so you have a double thick, double width piece of foil. The width should now be about 24", and the length should be something that comfortably fits in your grill, usually about 36" (you can roll it up into a little side wall if there's excess later).
 1. Once your foil is ready and it's been a couple minutes, flip the turkey on to the foil, so the breast side is now up. Season liberally. Insert your probe thermometer along the sternum from the head end of the turkey 4-6" in, until the tip is roughly about 60% the way into the breast along that line.
 ![prep1](turkey_prep5.jpg)
-1. Sounds like a lot, but that should take 20-30m tops. 
+1. [Optional] if you want even more flavor in the breastmeat (matters more if you're using a larger turkey), take a small bowl, pour in a bit of olive or other oil (a tablespoon or two), season the oil liberally with the spice mix, wait until it's absorbed, then using your fingers you can separate the skin from the breastmeat and rub some of the spice/oil mix in there under the skin.
+1. All these steps sounds like a lot, but that should take 20-30m tops. At this stage if you can just leave the turkey breast side up, seasoned and everything, for awhile to dry, you will get better skin. After leaving it you can feel free to dab with paper towels and re-season if you like.
 1. [Optional] If you're using the optional smoke packet for your grill, just before moving the turkey to the grill, grab some tongs, remove the top grate, and place the packet near one of the burners. Construct the packet by filling a pie tin about half full of chips, fold it over, crimp the edge, liberally poke one side (the top side when you put it in the grill) with holes.
 ![prep1](turkey_optional_smokepkt0.jpg)
 ![prep1](turkey_optional_smokepkt1.jpg)
