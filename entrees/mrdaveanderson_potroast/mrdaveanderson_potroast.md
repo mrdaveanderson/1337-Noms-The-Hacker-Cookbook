@@ -1,12 +1,5 @@
 # Dave's Potroast
 
-```
-TODO: 
-- Add spice rub ingredients/measurements. 
-- Add in metric for any imperial units. 
-- Clarify/edit.
-```
-
 ## Ingredients
 
 - Hunk of beef (as big or small as you like, I usually shoot for 3 lbs, or as large as I can get)
